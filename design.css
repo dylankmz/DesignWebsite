@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url(https://source.unsplash.com/1600x900/?tech);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    height: 700px;
+    background-size: cover;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-style: italic;
+
+}
+
+nav {
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+    margin: 2px;
+
+}
+
+img {
+    float: left;
+}
